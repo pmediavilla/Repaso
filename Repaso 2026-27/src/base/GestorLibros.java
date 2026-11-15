@@ -29,5 +29,8 @@ public class GestorLibros {
 
         return nuevoTotal;
     }
+    public static void mostrarMensaje(String texto) {
+    	System.out.println("Bienvenido al gestor de libros");
+    }
 }
 
